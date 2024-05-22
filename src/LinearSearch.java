@@ -1,6 +1,7 @@
 import java.util.Scanner;
 // linear search executes/run one by one
 // start from 0 position and execute 0 to 1,2,3,4,5 - index position
+// Big O Notation : 0(n);
 public class LinearSearch {
     public static void main(String[] args) {
         System.out.println("Enter Size Of An Array");
